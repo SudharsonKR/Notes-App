@@ -1,1 +1,1 @@
-export const url = "http://localhost:8002";
+export const url = "https://notes-app-backend-4t1q.onrender.com";
